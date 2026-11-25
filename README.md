@@ -1,5 +1,7 @@
 # my-portfolio
-a portfolio about myself :) (for phantom obv)
-What has changed:
-1: Added "rzwn's portfolio" has the big header
-2: Also added some text to it  -_-
+
+Welp, it's a page built with html and tailwind
+
+Changed:
+-added what I like and stuff
+-changed up the look of the page a bit
